@@ -1,0 +1,53 @@
+body{
+    
+
+}
+.form-control{
+    color: brown;
+    border-radius: 10px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.inner{
+    padding-top: 20px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    border-radius: 1%;
+    background-color: aquamarine;
+    color: brown;
+    margin: 50px;
+    padding-bottom: 20px;
+
+}
+.inner>.degree-dropdown{
+    margin-right: 60px;
+}
+.degree-dropdown{
+    margin-left: 50px;
+}
+ .init,.intrest,.inner>h3,.duration{
+    margin-left: 20px;
+}
+.form-select{
+    border-radius: 10px;
+    margin-left: 20px;
+    width: 350px;
+}
+
+.col-sm-8{
+    padding-right: 80px;
+    
+}
+#textbox{
+    height: 110px;
+}
+button{
+    justify-content: center;
+    margin-left: 50px;
+}
+#duration-control1,#duration-control2{
+    width: auto;
+    margin-left: 20px;
+}
+h1{
+    color: brown;
+    margin-left: 32%;
+}
