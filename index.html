@@ -40,10 +40,10 @@
             <form>
               <div class="row">
                 <div class="col">
-                  <input type="tel" class="form-control" placeholder="Enter Phone Number" name="enterphonenumber">
+                  <input type="tel" class="form-control" placeholder="Enter Phone Number" name="enterphonenumber" required pattern ="[0-9]{3}-[0-9]{3}-[0-9]{4}">
                 </div>
                 <div class="col">
-                    <input type="text" class="form-control" placeholder="Enter Email" name="email">
+                    <input type="text" class="form-control" placeholder="Enter Email" name="email"required pattern ="[a-z]-[@]{1}-[a-z]-[.]{1}-[com]{1}">
                   </div>
                 <div class="col">
                   <input type="password" class="form-control" placeholder="Enter Password" name="Password">
